@@ -9,5 +9,5 @@ setup(
     author='Jonas Bulik',
     author_email='mrlordalfred@gmail.com',
     url='https://github.com/MrGreenTea/docker_secrets',
-
+    packages=['docker_secrets']
 )
