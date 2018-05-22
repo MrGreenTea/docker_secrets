@@ -8,5 +8,6 @@ setup(
     description='Extremely simple module to get docker secrets',
     author='Jonas Bulik',
     author_email='mrlordalfred@gmail.com',
-    module=['docker_secrets']
+    url='https://github.com/MrGreenTea/docker_secrets',
+
 )
